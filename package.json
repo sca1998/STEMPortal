@@ -9,7 +9,7 @@
     "gh-pages-deploy": "node scripts/gh-pages-deploy.js"
   },
   "dependencies": {
-    "@babylonjs/core": "4.1.0",
+    "@babylonjs/core": "4.2.0",
     "@babylonjs/loaders": "4.1.0",
     "axios": "0.19.2",
     "babylonjs": "4.1.0",
