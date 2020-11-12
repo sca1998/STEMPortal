@@ -1620,17 +1620,22 @@ babylonjs-gltf2interface@4.1.0:
   resolved "https://registry.yarnpkg.com/babylonjs-gltf2interface/-/babylonjs-gltf2interface-4.1.0.tgz#95ec994e352ac5cb74869e238218a1b4df18e2f4"
   integrity sha512-H2obg+4t8bcmLyzGiOQqmUaTQqTu+6mJUlsMWZvmRBf0k2fQVeTdAkH7aDy6HVIz/THvpIx4ntG1Lsyquvmc5Q==
 
-babylonjs-gui@4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/babylonjs-gui/-/babylonjs-gui-4.1.0.tgz#dd3c40f58a2c7002d7f81c4392e366eefd6407ec"
-  integrity sha512-nlsmPFuva336GEUdz1n3kNZKFR+GVbTVo+kr6X5SKmiAvo+BrGJeFv1RK0p6uO/ceM4kiQdGaMSCZlB5sy5TZg==
+babylonjs-gui@4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/babylonjs-gui/-/babylonjs-gui-4.2.0.tgz#f9370e922d6de5f99ebbeddd4a15972621ee1941"
+  integrity sha512-eCLlUiShKFN8QCv/Xg8OInWXon9KFfZPVHQtI5A5yUggaNgjZrq1Ul6oveIYbg9UH32oU/jUDb4iChHn5Bsgjw==
   dependencies:
-    babylonjs "4.1.0"
+    babylonjs "4.2.0"
 
 babylonjs@4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/babylonjs/-/babylonjs-4.1.0.tgz#a2d1d6765795e9d44f002831554d63d6275394bd"
   integrity sha512-MnaH1BQIL+PYgqGaAvGVdP8yd7nM1j6sbQi/K/6+RlkHPxIETW2NbjqxiW7Sywgy7r3PwqWT/gxG4Bz95Z6/yA==
+
+babylonjs@4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/babylonjs/-/babylonjs-4.2.0.tgz#8f0d957a726de4c065904b14c2f413f455145d38"
+  integrity sha512-4hniJzWRkV0tDTTYGEHPk1lnfWn0HIw7HOvNWPK0rpUIbJooyeD9E5uVyHnslDedt0mtrA7QZu4i2Cz1DEmSsA==
 
 balanced-match@^1.0.0:
   version "1.0.0"
