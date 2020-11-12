@@ -12,7 +12,7 @@
     "@babylonjs/core": "4.1.0",
     "@babylonjs/loaders": "4.1.0",
     "axios": "0.19.2",
-    "babylonjs": "4.1.0",
+    "babylonjs": "4.2.0",
     "babylonjs-gui": "4.1.0",
     "core-js": "2.6.11",
     "lodash": "4.17.19",
